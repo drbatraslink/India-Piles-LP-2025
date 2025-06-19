@@ -283,7 +283,7 @@ a:hover{text-decoration:none}
 .testmonilas_form_custom .form-group{margin-bottom:10px}
 .btn_custom_testmonilas{margin-top:0;font-size:16px}
 .form_custom_bg_testmonilas{padding:20px 0;box-shadow:none;margin:auto;width:98%;border-radius:0}
-.form_section_div{margin-top:30px}
+.form_section_div{margin-top:0px}
 .form_colum_custom,.form_custom_bg_testmonilas{width:100%}
 .btn_custom_testmonilas{width:100%;margin-bottom:0;height:calc(1.5em + .75rem + 2px);line-height:1.6;color:#fff;font-weight:500;border:none}
 }
@@ -310,6 +310,7 @@ a:hover{text-decoration:none}
 .open-btn-cls-new:hover{font-weight:600;text-decoration:none;color:#fff}
 .chat-popup{width:92%;display:none;position:fixed;bottom:0;left:15px;right:15px;z-index:9}
 }
+
 
 /*==========================================*/
 /* back to top css*/
@@ -392,7 +393,7 @@ a:hover{text-decoration:none}
 @media(max-width:600px){
 .PCOS_div_new.table_section{padding-top:30px!important}
 }
-.PCOS_div_new .table_comparision_css{font-family:Inter,sans-serif!important;border-collapse:separate;border-spacing:0;margin-bottom:0;background-color:#f6f7fb!important;padding:20px 40px;border-radius:20px!important;-webkit-border-radius:20px!important;-moz-border-radius:20px!important;-ms-border-radius:20px!important;-o-border-radius:20px!important}
+.PCOS_div_new .table_comparision_css{font-family:Inter,sans-serif!important;border-collapse:separate;border-spacing:0;margin-bottom:0;background-color:#f6f7fb!important;padding:20px ;border-radius:20px!important;-webkit-border-radius:20px!important;-moz-border-radius:20px!important;-ms-border-radius:20px!important;-o-border-radius:20px!important}
 .PCOS_div_new .table_comparision_css td,.PCOS_div_new .table_comparision_css th{border-top:none;border-bottom:none;font-family:Inter,sans-serif!important;border:0!important;padding:12px!important;background:#f6f7fb!important;white-space:unset!important}
 .PCOS_div_new .table_comparision_css th{text-align:center;font-size:21px!important;line-height:normal;font-weight:600!important;color:#000!important}
 .PCOS_div_new .table_comparision_css td{text-align:center;font-size:18px!important;font-weight:500!important;width:30%!important;line-height:normal}
